@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">student of Computer Engineering and Informatics at the Andrés Bello University. At 21 years old, I stand out for my flexibility and organization, skills that allow me to lead projects effectively. My passion for technology and enthusiasm for participating in new projects in this field constantly drive me.</p>
+<p align="left">Im a student of Computer Engineering and Informatics at the Andrés Bello University. At 21 years old, I stand out for my flexibility and organization, skills that allow me to lead projects effectively. My passion for technology and enthusiasm for participating in new projects in this field constantly drive me.</p>
 
 ###
 
