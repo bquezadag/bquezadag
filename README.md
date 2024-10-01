@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="C:\Users\bquez\Downloads\WhatsApp Image 2024-10-01 at 16.10.23 (1).jpeg"  />
+  <img height="200" src="[C:\Users\bquez\Downloads\WhatsApp Image 2024-10-01 at 16.10.23 (1).jpeg](https://cdn.discordapp.com/attachments/1288616473916608557/1290753307434029147/WhatsApp_Image_2024-10-01_at_16.10.23.jpeg?ex=66fd9b31&is=66fc49b1&hm=4e995a2b7a94555e8f0df21cbc4ca123284d889a68441748d3cc7d8332fc3146&)"  />
 </div>
 
 ###
