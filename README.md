@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="blob:https://web.whatsapp.com/1b80e6f0-f5e9-4ef9-bfbd-e787674978fb"  />
+  <img height="200" src="https://web.whatsapp.com/1b80e6f0-f5e9-4ef9-bfbd-e787674978fb"  />
 </div>
 
 ###
