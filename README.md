@@ -14,7 +14,15 @@
 
 ###
 
-<p align="left">Im a student of Computer Engineering and Informatics at the Andrés Bello University. At 21 years old, I stand out for my flexibility and organization, skills that allow me to lead projects effectively. My passion for technology and enthusiasm for participating in new projects in this field constantly drive me.</p>
+<p align="left">🔭 I’m a student of Computer Engineering and Informatics at Universidad Andrés Bello, currently in my final year. At 21 years old, I stand out for my flexibility and organization, skills that allow me to effectively lead projects and collaborate in team environments.
+
+💻 I’m passionate about technology and constantly driven to explore new tools and frameworks. With experience in full stack development, I enjoy working on diverse projects that challenge my technical knowledge.
+
+📚 In my free time, I work on personal coding projects, focus on learning new programming languages and tools, and am always looking for new opportunities to grow and contribute to the tech world.
+
+⚡ Enthusiastic about cloud computing, cybersecurity, and full stack development.
+
+🛠 Languages and tools: React, Node.js, Python, Java, SQL, MongoDB, and more.</p>
 
 ###
 
