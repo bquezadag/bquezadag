@@ -35,7 +35,7 @@
 <div align="center">
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="30" alt="astro logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
+  <img src="https://skillicons.dev/icons?i=neovi" height="30" alt="neovim logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
