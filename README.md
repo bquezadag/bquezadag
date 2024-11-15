@@ -24,13 +24,6 @@
 
 🛠 Languages and tools: React, Node.js, Python, Java, SQL, MongoDB, and more.</p>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bquezadag&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="30" alt="astro logo"  />
