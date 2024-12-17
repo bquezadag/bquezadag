@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔭 I’m studying Computer Engineering and Informatics at Universidad Andrés Bello, currently in my final year. At 21 years old, I stand out for my flexibility and organization, skills that allow me to effectively lead projects and collaborate in team environments.
+<p align="left">🔭 I’m a Computer Engineer, I stand out for my flexibility and organization, skills that allow me to effectively lead projects and collaborate in team environments.
 
 💻 I’m passionate about technology and constantly driven to explore new tools and frameworks.
 
