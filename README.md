@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/89191dc46e46b2ac035586c9a35cf03fb85cec2302b5539098a948ef492e58c1/68747470733a2f2f627175657a6164612e76657263656c2e6170702f6d652e77656270"  />
+  <img height="150" src="[https://camo.githubusercontent.com/89191dc46e46b2ac035586c9a35cf03fb85cec2302b5539098a948ef492e58c1/68747470733a2f2f627175657a6164612e76657263656c2e6170702f6d652e77656270](https://media.licdn.com/dms/image/v2/D4E35AQEiZKh49gnd4g/profile-framedphoto-shrink_200_200/B4EZjvBIGTHEAY-/0/1756356707019?e=1765519200&v=beta&t=5Nx5ar5yb3FP5xlR94svEX5ExmvKZr_WLjpwO90Rx24)"  />
 </div>
 
 ###
